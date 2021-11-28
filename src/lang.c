@@ -289,6 +289,19 @@ static char *internalEnglish[LANG_STR_COUNT] = {
     "USB Games",
     "iLink Games",
     "MX4SIO Games",
+    "Configure PADMACRO",
+    "Pad macro Settings",
+    "Pad macros",
+    "Analog slow-down:",
+    "Reduce range of analog stick when button is pressed",
+    "Left stick",
+    "Right stick",
+    "Analog axis invert:",
+    "Invert analog stick axis",
+    "Turbo button speed",
+    "How fast to press the button when turbo is active",
+    "While button pressed",
+    "Toggled by button",
 };
 
 static int guiLangID = 0;
